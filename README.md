@@ -7,6 +7,8 @@ This solution uses pure CSS and does not require editing theme files or adding c
 ## 🎯 The Problem
 
 By default, WooCommerce variable products display prices on shop and archive pages as a range (e.g., **$100 – $250**). This presentation can be confusing to customers and often leads to lower click-through rates by showcasing the highest potential price first.
+<img width="534" height="390" alt="image" src="https://github.com/user-attachments/assets/2f45e928-4941-42cd-ad7e-901608381ba6" />
+
 
 This fix eliminates the range, leaving only the lowest price visible.
 
