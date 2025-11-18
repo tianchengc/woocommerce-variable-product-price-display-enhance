@@ -1,0 +1,11 @@
+/*
+ * Hides the price separator and the maximum price amount
+ * for WooCommerce variable products in shop loops.
+ */
+.price > span:nth-child(2) {
+    display: none!important; /* Targets the price separator (the dash) */
+}
+
+.price > span:nth-child(3) {
+    display: none!important; /* Targets the third span which holds the maximum price */
+}
